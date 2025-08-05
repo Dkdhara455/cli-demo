@@ -16,3 +16,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#for run the program
+#python cli_demo.py --name Deepak --count 3
+#o/p->
+# Hello, Deepak!
+# Hello, Deepak!
+# Hello, Deepak!
